@@ -1,4 +1,10 @@
 {
+  "name": "yagi",
+  "version": "0.1.0",
+  "description": "Reminder bot for release rotations",
+  "main": "ririsu.js",
+  "author": "Vexuas",
+  
   "dependencies": {
     "discord.js": "^12.5.1"
   }
