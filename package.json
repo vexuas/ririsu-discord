@@ -4,8 +4,10 @@
   "description": "Reminder bot for release rotations",
   "main": "ririsu.js",
   "author": "Vexuas",
-  
   "dependencies": {
     "discord.js": "^12.5.1"
+  },
+  "devDependencies": {
+    "auto": "^10.5.0"
   }
 }
